@@ -5,7 +5,7 @@ export const riancarlosdev: riancarlosdev_I = {
   executeCC: (number: string) => {
     const index = Object.values(cards).findIndex((i) => i.test(number));
 
-    if (index) {
+    if (index === null) {
       return false;
     }
 
