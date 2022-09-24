@@ -31,6 +31,9 @@ Using the
 Here is all the functions this module has to offer.
 
 ```javascript
+import riancarlosdev from "riancarlosdev-validate-credit-card";
+
 const card = riancarlosdev.executeCC("123456789"); // false
+
 const card2 = riancarlosdev.executeCC("4444555566667777"); // { name: 'Visa', image: 'https://i.ibb.co/F3L5jkq/visa.jpg' }
 ```
