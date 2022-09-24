@@ -12,14 +12,14 @@ Using the
 [`npm install` command](https://docs.npmjs.com/getting-started/installing-npm-packages-locally):
 
 ```console
-  $ npm install
+  $ npm install riancarlosdev-validate-credit-card
 ```
 
 Using the
 [`yarn add` command](https://classic.yarnpkg.com/lang/en/docs/cli/install/):
 
 ```console
-  $ yarn add
+  $ yarn add riancarlosdev-validate-credit-card
 ```
 
 ## Features
@@ -31,5 +31,6 @@ Using the
 Here is all the functions this module has to offer.
 
 ```javascript
-
+const card = riancarlosdev.executeCC("123456789"); // false
+const card2 = riancarlosdev.executeCC("4444555566667777"); // { name: 'Visa', image: 'https://i.ibb.co/F3L5jkq/visa.jpg' }
 ```
