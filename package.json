@@ -1,7 +1,8 @@
 {
   "name": "riancarlosdev-validate-credit-card",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "main": "/dist/index.js",
+  "types": "index.d.ts",
   "repository": "https://github.com/riancarlosdev/riancarlosdev-validate-credit-card.git",
   "author": "riancarlosdev <ggrian.dev@gmail.com>",
   "license": "MIT",
