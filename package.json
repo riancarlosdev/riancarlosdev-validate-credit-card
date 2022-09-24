@@ -1,6 +1,6 @@
 {
   "name": "riancarlosdev-validate-credit-card",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "main": "/dist/index.js",
   "repository": "https://github.com/riancarlosdev/riancarlosdev-validate-credit-card.git",
   "author": "riancarlosdev <ggrian.dev@gmail.com>",
