@@ -8,10 +8,10 @@ export const cards = {
 };
 
 export const images = {
-  Visa: "https://i.ibb.co/F3L5jkq/visa.jpg",
-  Mastercard: "https://i.ibb.co/jGZpcM2/Master-Card-Logo-svg.png",
-  Amex: "https://i.ibb.co/xJ3jT1w/amex.jpg",
-  DinersClub: "https://i.ibb.co/jbQ04tQ/din.png",
-  Discover: "https://i.ibb.co/YbzgyFD/disc.png",
-  JCB: "https://i.ibb.co/SdV468n/JCB-logo-svg.png",
+  Visa: "https://i.ibb.co/ySkD7y9/visa.jpg",
+  Mastercard: "https://i.ibb.co/m8LQrkZ/master.png",
+  Amex: "https://i.ibb.co/pwZmyKS/amex.jpg",
+  DinersClub: "https://i.ibb.co/6sZc9d7/diners.jpg",
+  Discover: "https://i.ibb.co/f4TqvLn/discover.jpg",
+  JCB: "https://i.ibb.co/MVYfZfp/jcb.png",
 };
