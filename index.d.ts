@@ -6,3 +6,7 @@ export interface riancarlosdev_I {
         image: string;
       };
 }
+
+declare const riancarlosdev: riancarlosdev_I;
+
+export { riancarlosdev };
