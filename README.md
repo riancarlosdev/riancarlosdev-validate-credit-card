@@ -31,7 +31,7 @@ Using the
 Here is all the functions this module has to offer.
 
 ```javascript
-import riancarlosdev from "riancarlosdev-validate-credit-card";
+import { riancarlosdev } from "riancarlosdev-validate-credit-card";
 
 const card = riancarlosdev.executeCC("123456789"); // false
 
