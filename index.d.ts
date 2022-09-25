@@ -5,6 +5,10 @@ export interface riancarlosdev_I {
         name: string;
         image: string;
       };
+  getCC(): {
+    name: string;
+    image: string;
+  }[];
 }
 
 declare const riancarlosdev: riancarlosdev_I;
